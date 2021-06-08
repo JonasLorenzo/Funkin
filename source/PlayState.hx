@@ -335,7 +335,7 @@ class PlayState extends MusicBeatState
 		                  fastCar = new FlxSprite(-300, 160).loadGraphic(Paths.image('limo/fastCarLol'));
 		                  // add(limo);
 		          }
-		          case 'cocoa' | 'eggnog':
+		          case 'LOOLMODE' | 'eggboi':
 		          {
 	                          curStage = 'mall';
 
